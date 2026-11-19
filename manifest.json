@@ -1,0 +1,17 @@
+{
+  "access_provider_type": "kong",
+  "binary": "kong.exe",
+  "capability": "deploy",
+  "category": "apigw",
+  "display_name_key": "plugin.kong.name",
+  "icon": "kong.svg",
+  "max_core_version": "",
+  "min_core_version": "",
+  "priority": 100,
+  "protocol_version": 4,
+  "provider_type": "kong",
+  "usages": [
+    "hosting"
+  ],
+  "version": "0.2.2"
+}
